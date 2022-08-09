@@ -10,3 +10,5 @@ Here are some ideas to get you started:-->
 - 👯 I’m looking to collaborate on awsome projects.
 - 📫 How to reach me: ashish.makes@gmail.com
 - ⚡ Fun fact: It's a nice day today.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-makes&layout=compact)](https://github.com/ashish-makes/github-readme-stats)
