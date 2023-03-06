@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ashish</h1>
+# Hi 👋, I'm Ashish
 
-<h3 align="center">Aspiring Developer specialised in Django.</h3>
+### Aspiring Developer specialised in Django.
 
 - 🌱 I’m currently learning **Django**
 
