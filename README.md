@@ -1,6 +1,6 @@
 # Hi 👋, I'm Ashish
 
-### Aspiring Developer specialised in Django.
+## Aspiring Developer specialised in Django.
 
 - 🌱 I’m currently learning **Django**
 
