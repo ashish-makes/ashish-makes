@@ -3,13 +3,9 @@
 ## Aspiring Developer specialised in Django.
 
 - 🌱 I’m currently learning **Django**
-
 - 👨‍💻 All of my projects are available at [https://ashblog.pythonanywhere.com/](https://ashblog.pythonanywhere.com/)
-
 - 💬 Ask me about **Python, Javascript, Django, CSS, Tailwind CSS**
-
 - 📫 How to reach me **ashish-makes@gmail.com**
-
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/ashish-makes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-makes" height="30" width="40" /></a> 
@@ -21,9 +17,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ashish-makes&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-makes&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
-
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ashishmakes) 
-
-  
