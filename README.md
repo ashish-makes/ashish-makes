@@ -3,7 +3,7 @@
 ## Aspiring Developer specialised in Django.
 
 - 🌱 I’m currently learning **Django**
-- 👨‍💻 All of my projects are available at [[https://ashish-dev.vercel.app/]([https://developerashish.vercel.app/](https://developerashish.vercel.app/))](https://ashish-dev.vercel.app/) and [https://ashblog.pythonanywhere.com/](https://ashblog.pythonanywhere.com/)
+- 👨‍💻 All of my projects are available at [https://ashish-dev.vercel.app/](https://ashish-dev.vercel.app/)
 - 💬 Ask me about **Python, Javascript, Django, CSS, Tailwind CSS**
 - 📖 Get my FREE eBook [A Comprehensive Guide to Setting Up Django Projects](https://github.com/ashish-makes/django-setup/files/13924044/Professionally.setup.Django.project.pdf)
 - 📫 How to reach me **ashish-makes@gmail.com**
