@@ -6,7 +6,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+end-to-end+web+applications;Next.js+%7C+React+%7C+Django+%7C+Node.js;Exploring+Machine+Learning+%26+LLMs)](https://git.io/typing-svg)
 
-<br/>
+
+<img src="https://svgl.app/library/nextjs_icon_dark.svg" width="32" height="32" title="Next.js"/>&nbsp;&nbsp;
+<img src="https://svgl.app/library/react_dark.svg" width="32" height="32" title="React"/>&nbsp;&nbsp;
+<img src="https://svgl.app/library/typescript.svg" width="32" height="32" title="TypeScript"/>&nbsp;&nbsp;
+<img src="https://svgl.app/library/tailwindcss.svg" width="32" height="32" title="Tailwind CSS"/>&nbsp;&nbsp;
+<img src="https://svgl.app/library/nodejs.svg" width="32" height="32" title="Node.js"/>&nbsp;&nbsp;
+<img src="https://svgl.app/library/django.svg" width="32" height="32" title="Django"/>&nbsp;&nbsp;
+<img src="https://svgl.app/library/python.svg" width="32" height="32" title="Python"/>&nbsp;&nbsp;
+<img src="https://svgl.app/library/postgresql.svg" width="32" height="32" title="PostgreSQL"/>&nbsp;&nbsp;
+<img src="https://svgl.app/library/docker.svg" width="32" height="32" title="Docker"/>&nbsp;&nbsp;
+<img src="https://svgl.app/library/aws_dark.svg" width="32" height="32" title="AWS"/>
 
 [![Portfolio](https://img.shields.io/badge/ashish.cv-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ashish.cv/)
 [![Email](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashish-makes@gmail.com)
@@ -31,8 +41,6 @@ I'm currently exploring **Machine Learning, Deep Learning, and LLMs** — integr
 <summary><b>🖥️ Frontend & Frameworks</b></summary>
 <br/>
 
-<div align="center">
-
 <img src="https://svgl.app/library/nextjs_icon_dark.svg" width="42" height="42" title="Next.js"/>&nbsp;&nbsp;&nbsp;
 <img src="https://svgl.app/library/react_dark.svg" width="42" height="42" title="React"/>&nbsp;&nbsp;&nbsp;
 <img src="https://svgl.app/library/typescript.svg" width="42" height="42" title="TypeScript"/>&nbsp;&nbsp;&nbsp;
@@ -43,10 +51,6 @@ I'm currently exploring **Machine Learning, Deep Learning, and LLMs** — integr
 <img src="https://svgl.app/library/redux.svg" width="42" height="42" title="Redux"/>&nbsp;&nbsp;&nbsp;
 <img src="https://svgl.app/library/shadcn-ui_dark.svg" width="42" height="42" title="Shadcn UI"/>&nbsp;&nbsp;&nbsp;
 <img src="https://svgl.app/library/threejs-dark.svg" width="42" height="42" title="Three.js"/>
-
-</div>
-
-<br/>
 
 | Tool | Stars | Notes |
 |---|---|---|
@@ -60,9 +64,6 @@ I'm currently exploring **Machine Learning, Deep Learning, and LLMs** — integr
 
 <details>
 <summary><b>⚙️ Backend & Databases</b></summary>
-<br/>
-
-<div align="center">
 
 <img src="https://svgl.app/library/nodejs.svg" width="42" height="42" title="Node.js"/>&nbsp;&nbsp;&nbsp;
 <img src="https://svgl.app/library/expressjs_dark.svg" width="42" height="42" title="Express"/>&nbsp;&nbsp;&nbsp;
@@ -78,10 +79,6 @@ I'm currently exploring **Machine Learning, Deep Learning, and LLMs** — integr
 <img src="https://svgl.app/library/docker.svg" width="42" height="42" title="Docker"/>&nbsp;&nbsp;&nbsp;
 <img src="https://svgl.app/library/aws_dark.svg" width="42" height="42" title="AWS"/>
 
-</div>
-
-<br/>
-
 | Tool | Stars | Notes |
 |---|---|---|
 | Node.js · Express | ⭐⭐⭐⭐⭐ | Primary JS runtime & web framework |
@@ -95,9 +92,6 @@ I'm currently exploring **Machine Learning, Deep Learning, and LLMs** — integr
 
 <details>
 <summary><b>🛠️ Tools & Platforms</b></summary>
-<br/>
-
-<div align="center">
 
 <img src="https://svgl.app/library/figma.svg" width="42" height="42" title="Figma"/>&nbsp;&nbsp;&nbsp;
 <img src="https://svgl.app/library/git.svg" width="42" height="42" title="Git"/>&nbsp;&nbsp;&nbsp;
@@ -110,10 +104,6 @@ I'm currently exploring **Machine Learning, Deep Learning, and LLMs** — integr
 <img src="https://svgl.app/library/slack.svg" width="42" height="42" title="Slack"/>&nbsp;&nbsp;&nbsp;
 <img src="https://svgl.app/library/discord.svg" width="42" height="42" title="Discord"/>&nbsp;&nbsp;&nbsp;
 <img src="https://svgl.app/library/adobe.svg" width="42" height="42" title="Adobe"/>
-
-</div>
-
-<br/>
 
 | Tool | Stars | Category |
 |---|---|---|
@@ -128,18 +118,11 @@ I'm currently exploring **Machine Learning, Deep Learning, and LLMs** — integr
 
 <details>
 <summary><b>🤖 AI / ML (Exploring)</b></summary>
-<br/>
-
-<div align="center">
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)&nbsp;
 ![HuggingFace](https://img.shields.io/badge/Hugging_Face-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)
-
-</div>
-
-<br/>
 
 | Tool | Stars | Notes |
 |---|---|---|
@@ -160,13 +143,7 @@ I'm currently exploring **Machine Learning, Deep Learning, and LLMs** — integr
 | 5 | [**django-tools-website**](https://github.com/ashish-makes/django-tools-website) | Toolify — curated directory of web dev tools & resources | Django · CSS | ⭐ 6 · 🍴 8 |
 | 6 | [**django-setup**](https://github.com/ashish-makes/django-setup) | Free eBook — professional Django project setup guide | Markdown · PDF | 📖 Free |
 
-<div align="center">
-
-<br/>
-
 [![All Repos](https://img.shields.io/badge/📂_View_All_Repositories-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashish-makes?tab=repositories)
-
-</div>
 
 ## 📊 GitHub Stats
 
@@ -182,38 +159,28 @@ I'm currently exploring **Machine Learning, Deep Learning, and LLMs** — integr
 
 ## 📖 Free Resource
 
-<div align="center">
-
 ### A Comprehensive Guide to Setting Up Django Projects
 
-*A free eBook covering professional project structure, environment config,*
-*PostgreSQL setup, static files, and deployment — from scratch.*
+A free eBook covering professional project structure, environment config, PostgreSQL setup, static files, and deployment — from scratch.
 
 [![Download PDF](https://img.shields.io/badge/⬇️_Download_Free_PDF-000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ashish-makes/django-setup/files/13924044/Professionally.setup.Django.project.pdf)
 [![View Repo](https://img.shields.io/badge/View_on_GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashish-makes/django-setup)
 
-</div>
-
 ## 🤝 Let's Connect
 
-<div align="center">
+Open to collaborations, freelance work, and open source contributions.
 
-*Open to collaborations, freelance work, and open source contributions.*
+🌐 &nbsp;**Portfolio** &nbsp;➜&nbsp; [ashish.cv](https://www.ashish.cv/)
 
-<br/>
+📧 &nbsp;**Email** &nbsp;➜&nbsp; [ashish-makes@gmail.com](mailto:ashish-makes@gmail.com)
 
-🌐 **Portfolio** ➜ [ashish.cv](https://www.ashish.cv/)
-📧 **Email** ➜ [ashish-makes@gmail.com](mailto:ashish-makes@gmail.com)
-☕ **Support my work** ➜ [buymeacoffee.com/ashishmakes](https://buymeacoffee.com/ashishmakes)
+☕ &nbsp;**Support my work** &nbsp;➜&nbsp; [buymeacoffee.com/ashishmakes](https://buymeacoffee.com/ashishmakes)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ashish.cv/)
 [![Email](https://img.shields.io/badge/Send_an_Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashish-makes@gmail.com)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_a_Coffee-000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FFDD00)](https://buymeacoffee.com/ashishmakes)
-
-</div>
-
 
 <div align="center">
 
