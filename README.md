@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 ## 👋 About Me
 
 Hey! I'm a **Full Stack Developer** passionate about building fast, scalable, and beautiful web applications from end to end. My core stack spans **Next.js, React, TypeScript** on the frontend and **Node.js, Django, PostgreSQL** on the backend.
@@ -104,12 +102,10 @@ I'm currently exploring **Machine Learning, Deep Learning, and LLMs** — integr
 <div align="center">
 
 <img src="https://svgl.app/library/figma.svg" width="42" height="42" title="Figma"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/notion_dark.svg" width="42" height="42" title="Notion"/>&nbsp;&nbsp;&nbsp;
 <img src="https://svgl.app/library/git.svg" width="42" height="42" title="Git"/>&nbsp;&nbsp;&nbsp;
 <img src="https://svgl.app/library/github_dark.svg" width="42" height="42" title="GitHub"/>&nbsp;&nbsp;&nbsp;
 <img src="https://svgl.app/library/vercel_dark.svg" width="42" height="42" title="Vercel"/>&nbsp;&nbsp;&nbsp;
 <img src="https://svgl.app/library/cloudflare.svg" width="42" height="42" title="Cloudflare"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/google_analytics.svg" width="42" height="42" title="Google Analytics"/>&nbsp;&nbsp;&nbsp;
 <img src="https://svgl.app/library/postman.svg" width="42" height="42" title="Postman"/>&nbsp;&nbsp;&nbsp;
 <img src="https://svgl.app/library/stripe.svg" width="42" height="42" title="Stripe"/>&nbsp;&nbsp;&nbsp;
 <img src="https://svgl.app/library/linear.svg" width="42" height="42" title="Linear"/>&nbsp;&nbsp;&nbsp;
