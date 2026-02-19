@@ -25,8 +25,6 @@ I'm currently exploring **Machine Learning, Deep Learning, and LLMs** — integr
 - 💼 &nbsp;Open to — Collaborations · Freelance · Open Source
 - 🌱 &nbsp;Currently exploring — ML, LLMs & intelligent systems
 
----
-
 ## 🧰 Tech Stack
 
 <details>
@@ -151,8 +149,6 @@ I'm currently exploring **Machine Learning, Deep Learning, and LLMs** — integr
 
 </details>
 
----
-
 ## 🚀 Featured Projects
 
 | # | Project | Description | Stack | Stats |
@@ -172,15 +168,9 @@ I'm currently exploring **Machine Learning, Deep Learning, and LLMs** — integr
 
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ashish-makes&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="175"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-makes&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="175"/>
-
-<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ashish-makes&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
@@ -189,8 +179,6 @@ I'm currently exploring **Machine Learning, Deep Learning, and LLMs** — integr
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashish-makes&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff)](https://github.com/ashish-makes)
 
 </div>
-
----
 
 ## 📖 Free Resource
 
@@ -206,8 +194,6 @@ I'm currently exploring **Machine Learning, Deep Learning, and LLMs** — integr
 
 </div>
 
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
@@ -217,7 +203,6 @@ I'm currently exploring **Machine Learning, Deep Learning, and LLMs** — integr
 <br/>
 
 | | |
-|---|---|
 | 🌐 **Portfolio** | [ashish.cv](https://www.ashish.cv/) |
 | 📧 **Email** | [ashish-makes@gmail.com](mailto:ashish-makes@gmail.com) |
 | ☕ **Support my work** | [buymeacoffee.com/ashishmakes](https://buymeacoffee.com/ashishmakes) |
@@ -230,7 +215,6 @@ I'm currently exploring **Machine Learning, Deep Learning, and LLMs** — integr
 
 </div>
 
----
 
 <div align="center">
 
