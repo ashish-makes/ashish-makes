@@ -202,10 +202,9 @@ I'm currently exploring **Machine Learning, Deep Learning, and LLMs** — integr
 
 <br/>
 
-| | |
-| 🌐 **Portfolio** | [ashish.cv](https://www.ashish.cv/) |
-| 📧 **Email** | [ashish-makes@gmail.com](mailto:ashish-makes@gmail.com) |
-| ☕ **Support my work** | [buymeacoffee.com/ashishmakes](https://buymeacoffee.com/ashishmakes) |
+🌐 **Portfolio** ➜ [ashish.cv](https://www.ashish.cv/)
+📧 **Email** ➜ [ashish-makes@gmail.com](mailto:ashish-makes@gmail.com)
+☕ **Support my work** ➜ [buymeacoffee.com/ashishmakes](https://buymeacoffee.com/ashishmakes)
 
 <br/>
 
