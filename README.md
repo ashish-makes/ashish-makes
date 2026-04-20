@@ -31,7 +31,7 @@ My go-to stack is **Next.js · React · TypeScript** on the frontend and **Node.
 ```ts
 const ashish = {
   role:       "Full Stack Developer",
-  location:   "India 🇮🇳",
+  location:   "Canada 🇨🇦",
   portfolio:  "https://ashish.cv",
   stack:      ["Next.js", "React", "TypeScript", "Node.js", "Django", "PostgreSQL"],
   exploring:  ["Machine Learning", "LLMs", "Deep Learning"],
