@@ -1,191 +1,214 @@
 <div align="center">
 
-# Ashish
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:58A6FF&height=120&section=header&text=&fontColor=ffffff&fontSize=60&animation=fadeIn" width="100%"/>
 
-### Full Stack Developer · AI & ML Enthusiast · Open Source
+# Hey, I'm Ashish 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+end-to-end+web+applications;Next.js+%7C+React+%7C+Django+%7C+Node.js;Exploring+Machine+Learning+%26+LLMs)](https://git.io/typing-svg)
+<a href="https://www.ashish.cv">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%90;Building+things+that+matter+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
+<br/>
 
-<img src="https://svgl.app/library/nextjs_icon_dark.svg" width="32" height="32" title="Next.js"/>&nbsp;&nbsp;
-<img src="https://svgl.app/library/react_dark.svg" width="32" height="32" title="React"/>&nbsp;&nbsp;
-<img src="https://svgl.app/library/typescript.svg" width="32" height="32" title="TypeScript"/>&nbsp;&nbsp;
-<img src="https://svgl.app/library/tailwindcss.svg" width="32" height="32" title="Tailwind CSS"/>&nbsp;&nbsp;
-<img src="https://svgl.app/library/nodejs.svg" width="32" height="32" title="Node.js"/>&nbsp;&nbsp;
-<img src="https://svgl.app/library/django.svg" width="32" height="32" title="Django"/>&nbsp;&nbsp;
-<img src="https://svgl.app/library/python.svg" width="32" height="32" title="Python"/>&nbsp;&nbsp;
-<img src="https://svgl.app/library/postgresql.svg" width="32" height="32" title="PostgreSQL"/>&nbsp;&nbsp;
-<img src="https://svgl.app/library/docker.svg" width="32" height="32" title="Docker"/>&nbsp;&nbsp;
-<img src="https://svgl.app/library/aws_dark.svg" width="32" height="32" title="AWS"/>
+[![Portfolio](https://img.shields.io/badge/🌐_ashish.cv-000000?style=for-the-badge&logoColor=white)](https://www.ashish.cv/)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashish-makes@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashish-makes)
+[![Buy Me a Coffee](https://img.shields.io/badge/☕_Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logoColor=black)](https://buymeacoffee.com/ashishmakes)
 
-[![Portfolio](https://img.shields.io/badge/ashish.cv-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ashish.cv/)
-[![Email](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashish-makes@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashish-makes)
-[![Buy Me a Coffee](https://img.shields.io/badge/☕_Support-000?style=for-the-badge)](https://buymeacoffee.com/ashishmakes)
+![Profile Views](https://komarev.com/ghpvc/?username=ashish-makes&color=58A6FF&style=flat-square&label=Profile+Views)&nbsp;
+![GitHub followers](https://img.shields.io/github/followers/ashish-makes?style=flat-square&color=58A6FF&label=Followers)
 
 </div>
 
-## 👋 About Me
+---
 
-Hey! I'm a **Full Stack Developer** passionate about building fast, scalable, and beautiful web applications from end to end. My core stack spans **Next.js, React, TypeScript** on the frontend and **Node.js, Django, PostgreSQL** on the backend.
+## 👨‍💻 About Me
 
-I'm currently exploring **Machine Learning, Deep Learning, and LLMs** — integrating intelligent features into real-world apps. I love open source, clean code, and shipping things that actually matter.
+I'm a **Full Stack Developer** who loves building fast, scalable, and beautiful web experiences — from pixel-perfect UIs to robust backend systems.
 
-- 🌍 &nbsp;Portfolio → [ashish.cv](https://www.ashish.cv/)
-- 💼 &nbsp;Open to — Collaborations · Freelance · Open Source
-- 🌱 &nbsp;Currently exploring — ML, LLMs & intelligent systems
+My go-to stack is **Next.js · React · TypeScript** on the frontend and **Node.js · Django · PostgreSQL** on the backend. I'm currently diving deep into **Machine Learning, LLMs, and intelligent systems** — bridging the gap between web development and AI.
+
+```ts
+const ashish = {
+  role:       "Full Stack Developer",
+  location:   "India 🇮🇳",
+  portfolio:  "https://ashish.cv",
+  stack:      ["Next.js", "React", "TypeScript", "Node.js", "Django", "PostgreSQL"],
+  exploring:  ["Machine Learning", "LLMs", "Deep Learning"],
+  available:  ["Collaborations", "Freelance", "Open Source"],
+  funFact:    "I ship things that actually matter ✨",
+};
+```
+
+---
 
 ## 🧰 Tech Stack
 
-<details>
-<summary><b>🖥️ Frontend & Frameworks</b></summary>
-<br/>
+### 🖥️ Frontend
 
-<img src="https://svgl.app/library/nextjs_icon_dark.svg" width="42" height="42" title="Next.js"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/react_dark.svg" width="42" height="42" title="React"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/typescript.svg" width="42" height="42" title="TypeScript"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/javascript.svg" width="42" height="42" title="JavaScript"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/html5.svg" width="42" height="42" title="HTML5"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/tailwindcss.svg" width="42" height="42" title="Tailwind CSS"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/motion_dark.svg" width="42" height="42" title="Motion"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/redux.svg" width="42" height="42" title="Redux"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/shadcn-ui_dark.svg" width="42" height="42" title="Shadcn UI"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/threejs-dark.svg" width="42" height="42" title="Three.js"/>
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,tailwind,html,css,redux,threejs&theme=dark" />
+</p>
 
-| Tool | Stars | Notes |
-|---|---|---|
-| Next.js · React · TypeScript | ⭐⭐⭐⭐⭐ | Core full-stack & SPA framework |
-| Tailwind CSS · Shadcn UI | ⭐⭐⭐⭐⭐ | Styling & accessible component system |
-| JavaScript · HTML/CSS | ⭐⭐⭐⭐⭐ | Web fundamentals |
-| Redux · Motion | ⭐⭐⭐⭐ | State management & animations |
-| Three.js | ⭐⭐⭐ | 3D rendering & interactive scenes |
+### ⚙️ Backend & Databases
 
-</details>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,php,java,postgres,mysql,mongodb,redis,prisma&theme=dark" />
+</p>
 
-<details>
-<summary><b>⚙️ Backend & Databases</b></summary>
+### 🛠️ Tools & Platforms
 
-<img src="https://svgl.app/library/nodejs.svg" width="42" height="42" title="Node.js"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/expressjs_dark.svg" width="42" height="42" title="Express"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/python.svg" width="42" height="42" title="Python"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/django.svg" width="42" height="42" title="Django"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/php_dark.svg" width="42" height="42" title="PHP"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/java.svg" width="42" height="42" title="Java"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/postgresql.svg" width="42" height="42" title="PostgreSQL"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/mysql.svg" width="42" height="42" title="MySQL"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/mongodb-icon-dark.svg" width="42" height="42" title="MongoDB"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/prisma_dark.svg" width="42" height="42" title="Prisma"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/redis.svg" width="42" height="42" title="Redis"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/docker.svg" width="42" height="42" title="Docker"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/aws_dark.svg" width="42" height="42" title="AWS"/>
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,cloudflare,git,github,figma,postman,vscode&theme=dark" />
+</p>
 
-| Tool | Stars | Notes |
-|---|---|---|
-| Node.js · Express | ⭐⭐⭐⭐⭐ | Primary JS runtime & web framework |
-| Python · Django | ⭐⭐⭐⭐⭐ | Backend language & full-stack framework |
-| PostgreSQL · MySQL · MongoDB | ⭐⭐⭐⭐⭐ | Relational & NoSQL databases |
-| Prisma · Redis | ⭐⭐⭐⭐ | ORM & high-performance caching |
-| Docker · AWS | ⭐⭐⭐ | Containerization & cloud infra |
-| PHP · Java | ⭐⭐⭐ | Additional server-side languages |
+### 🤖 AI / ML *(Exploring)*
 
-</details>
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="48"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="48"/>
+</p>
 
-<details>
-<summary><b>🛠️ Tools & Platforms</b></summary>
-
-<img src="https://svgl.app/library/figma.svg" width="42" height="42" title="Figma"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/git.svg" width="42" height="42" title="Git"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/github_dark.svg" width="42" height="42" title="GitHub"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/vercel_dark.svg" width="42" height="42" title="Vercel"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/cloudflare.svg" width="42" height="42" title="Cloudflare"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/postman.svg" width="42" height="42" title="Postman"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/stripe.svg" width="42" height="42" title="Stripe"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/linear.svg" width="42" height="42" title="Linear"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/slack.svg" width="42" height="42" title="Slack"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/discord.svg" width="42" height="42" title="Discord"/>&nbsp;&nbsp;&nbsp;
-<img src="https://svgl.app/library/adobe.svg" width="42" height="42" title="Adobe"/>
-
-| Tool | Stars | Category |
-|---|---|---|
-| Git · GitHub | ⭐⭐⭐⭐⭐ | Version control & collaboration |
-| Figma · Adobe | ⭐⭐⭐⭐ | UI design & creative tools |
-| Vercel · Cloudflare | ⭐⭐⭐⭐ | Deployment & edge network |
-| Postman · Stripe | ⭐⭐⭐⭐ | API testing & payments |
-| Notion · Linear | ⭐⭐⭐⭐ | Project management |
-| Google Analytics · Slack · Discord | ⭐⭐⭐ | Analytics & communication |
-
-</details>
-
-<details>
-<summary><b>🤖 AI / ML (Exploring)</b></summary>
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)&nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)&nbsp;
-![HuggingFace](https://img.shields.io/badge/Hugging_Face-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21E)&nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&logo=scikit-learn&logoColor=F7931E)
-
-| Tool | Stars | Notes |
-|---|---|---|
-| TensorFlow · PyTorch | ⭐⭐⭐ | Deep learning & neural network experimentation |
-| Hugging Face | ⭐⭐⭐ | LLMs, Transformers & fine-tuning pipelines |
-| scikit-learn | ⭐⭐ | Classical ML models & evaluation |
-
-</details>
+---
 
 ## 🚀 Featured Projects
 
-| # | Project | Description | Stack | Stats |
-|---|---|---|---|---|
-| 1 | [**django-tailwind-blog**](https://github.com/ashish-makes/django-tailwind-blog) | Full-stack developer blog & portfolio with admin panel, blog, projects & contact | Django · Tailwind · PostgreSQL | ⭐ 131 · 🍴 58 |
-| 2 | [**django-lms**](https://github.com/ashish-makes/django-lms) | Skillmate — LMS where instructors create & sell courses to students | Django · JavaScript | ⭐ 22 · 🍴 17 |
-| 3 | [**resume-generator**](https://github.com/ashish-makes/resume-generator) | ResumeGenie — resume builder with templates, live preview & PDF export | HTML · CSS · JS | 🔗 Live |
-| 4 | [**tailwind-portfolio**](https://github.com/ashish-makes/tailwind-portfolio) | Tailfolio — clean minimal personal portfolio site | HTML · Tailwind · JS | 🔗 Live |
-| 5 | [**django-tools-website**](https://github.com/ashish-makes/django-tools-website) | Toolify — curated directory of web dev tools & resources | Django · CSS | ⭐ 6 · 🍴 8 |
-| 6 | [**django-setup**](https://github.com/ashish-makes/django-setup) | Free eBook — professional Django project setup guide | Markdown · PDF | 📖 Free |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![All Repos](https://img.shields.io/badge/📂_View_All_Repositories-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashish-makes?tab=repositories)
+### 🗒️ [django-tailwind-blog](https://github.com/ashish-makes/django-tailwind-blog)
+Full-stack developer blog & portfolio with admin panel, blog posts, projects & contact form.
+
+**Stack:** Django · Tailwind CSS · PostgreSQL
+
+![Stars](https://img.shields.io/github/stars/ashish-makes/django-tailwind-blog?style=flat-square&color=58A6FF)
+![Forks](https://img.shields.io/github/forks/ashish-makes/django-tailwind-blog?style=flat-square&color=58A6FF)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 [django-lms](https://github.com/ashish-makes/django-lms)
+**Skillmate** — A learning management system where instructors create & sell courses to students.
+
+**Stack:** Django · JavaScript
+
+![Stars](https://img.shields.io/github/stars/ashish-makes/django-lms?style=flat-square&color=58A6FF)
+![Forks](https://img.shields.io/github/forks/ashish-makes/django-lms?style=flat-square&color=58A6FF)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📄 [resume-generator](https://github.com/ashish-makes/resume-generator)
+**ResumeGenie** — Resume builder with templates, live preview & PDF export.
+
+**Stack:** HTML · CSS · JavaScript
+
+![Stars](https://img.shields.io/github/stars/ashish-makes/resume-generator?style=flat-square&color=58A6FF)
+![Forks](https://img.shields.io/github/forks/ashish-makes/resume-generator?style=flat-square&color=58A6FF)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [tailwind-portfolio](https://github.com/ashish-makes/tailwind-portfolio)
+**Tailfolio** — Clean, minimal personal portfolio site built with Tailwind CSS.
+
+**Stack:** HTML · Tailwind CSS · JavaScript
+
+![Stars](https://img.shields.io/github/stars/ashish-makes/tailwind-portfolio?style=flat-square&color=58A6FF)
+![Forks](https://img.shields.io/github/forks/ashish-makes/tailwind-portfolio?style=flat-square&color=58A6FF)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧰 [django-tools-website](https://github.com/ashish-makes/django-tools-website)
+**Toolify** — Curated directory of web dev tools & resources for developers.
+
+**Stack:** Django · CSS
+
+![Stars](https://img.shields.io/github/stars/ashish-makes/django-tools-website?style=flat-square&color=58A6FF)
+![Forks](https://img.shields.io/github/forks/ashish-makes/django-tools-website?style=flat-square&color=58A6FF)
+
+</td>
+<td width="50%" valign="top">
+
+### 📖 [django-setup](https://github.com/ashish-makes/django-setup)
+**Free eBook** — A professional guide to setting up Django projects from scratch.
+
+**Format:** Markdown · PDF &nbsp; 🆓 Free
+
+![Stars](https://img.shields.io/github/stars/ashish-makes/django-setup?style=flat-square&color=58A6FF)
+![Forks](https://img.shields.io/github/forks/ashish-makes/django-setup?style=flat-square&color=58A6FF)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![View All Repos](https://img.shields.io/badge/📂_View_All_Repositories-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashish-makes?tab=repositories)
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ashish-makes&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=ashish-makes&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-makes&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="165"/>
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ashish-makes&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF7043&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 <br/>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashish-makes&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff)](https://github.com/ashish-makes)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ashish-makes&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF)](https://github.com/ashish-makes)
 
 </div>
 
+---
+
 ## 📖 Free Resource
-
-### A Comprehensive Guide to Setting Up Django Projects
-
-A free eBook covering professional project structure, environment config, PostgreSQL setup, static files, and deployment — from scratch.
-
-[![Download PDF](https://img.shields.io/badge/⬇️_Download_Free_PDF-000?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ashish-makes/django-setup/files/13924044/Professionally.setup.Django.project.pdf)
-[![View Repo](https://img.shields.io/badge/View_on_GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashish-makes/django-setup)
-
-## 🤝 Let's Connect
-
-Open to collaborations, freelance work, and open source contributions.
-
-🌐 &nbsp;**Portfolio** &nbsp;➜&nbsp; [ashish.cv](https://www.ashish.cv/)
-
-📧 &nbsp;**Email** &nbsp;➜&nbsp; [ashish-makes@gmail.com](mailto:ashish-makes@gmail.com)
-
-☕ &nbsp;**Support my work** &nbsp;➜&nbsp; [buymeacoffee.com/ashishmakes](https://buymeacoffee.com/ashishmakes)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ashish.cv/)
-[![Email](https://img.shields.io/badge/Send_an_Email-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashish-makes@gmail.com)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_a_Coffee-000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=FFDD00)](https://buymeacoffee.com/ashishmakes)
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ashish-makes&color=58A6FF&style=flat-square&label=Profile+Views)
+### 🐍 A Comprehensive Guide to Setting Up Django Projects
 
-*Drop a ⭐ on anything useful — it means a lot.*
+A **free eBook** covering professional project structure, environment config, PostgreSQL setup, static files, and deployment — from scratch to production.
+
+[![Download Free PDF](https://img.shields.io/badge/⬇️_Download_Free_PDF-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/ashish-makes/django-setup/files/13924044/Professionally.setup.Django.project.pdf)
+[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashish-makes/django-setup)
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm open to **collaborations**, **freelance projects**, and **open source contributions**. Let's build something great together!
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-000000?style=for-the-badge)](https://www.ashish.cv/)
+[![Email](https://img.shields.io/badge/📧_Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashish-makes@gmail.com)
+[![Buy Me a Coffee](https://img.shields.io/badge/☕_Support_My_Work-FFDD00?style=for-the-badge&logoColor=black)](https://buymeacoffee.com/ashishmakes)
+
+<br/>
+
+*If you find any of my projects useful, drop a ⭐ — it really means a lot!*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=80&section=footer" width="100%"/>
 
 </div>
